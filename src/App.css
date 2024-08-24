@@ -1,124 +1,45 @@
-@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
-
 body {
-  position: relative;
-  margin: 0;
-  height: 100vh;
-  background-color: #eee;
+  --dot-bg: #fff;
+  --dot-color: black;
+  --dot-size: 1px;
+  --dot-space: 50px;
+  background:
+    linear-gradient(90deg, var(--dot-bg) calc(var(--dot-space) - var(--dot-size)), transparent 1%) center / var(--dot-space) var(--dot-space),
+    linear-gradient(var(--dot-bg) calc(var(--dot-space) - var(--dot-size)), transparent 1%) center / var(--dot-space) var(--dot-space),
+    var(--dot-color);
 }
 
-body::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 110%;
-  height: 120%;
-  background-image: url('./assets/pokeballs.svg');
-  background-size: 200px 200px;
-  background-repeat: repeat;
-  background-position: center;
-  transform-origin: center;
-  z-index: -1;
+@media (min-width: 1220px) {
+  .main-content {
+    border-radius: 4px;
+  }
 }
 
-
-.App-header {
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: #3c5aa6;
-  height: 125px;
+@media (min-width: 900px) {
+  .main-content {
+    min-height: 600px;
+  }
 }
 
-.App-header>h1 {
-  color: #ffcb05;
-  font-size: 75px;
-  z-index: 0;
+@media (min-width: 620px) {
+  .main-content {
+    margin-top: 2rem;
+    padding: 1.5rem 2rem;
+  }
+}
+
+.main-content {
+  margin: 1.5rem auto 2rem;
+  padding: .75rem 1rem;
+  background-color: #fff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .grid-container {
-  max-width: 1220px;
   margin: 0 auto;
-  align-items: center;
+  max-width: 1220px;
 }
 
-.main-nav-list {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  background-color: red;
-  justify-content: space-between;
-  align-items: center;
-  border-radius: 0 0 5px 5px;
-  height: 35px;
-}
-
-.item:first-child {
-  margin-left: 75px;
-}
-
-.item:last-child {
-  margin-right: 75px;
-}
-
-#main {
-  display: flex;
-  flex-direction: column;
-  background-color: #fff;
-  border-radius: 5px;
-  padding-bottom: 20px;
-}
-
-.input {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 16px;
-}
-
-.input>.MuiBox-root {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-}
-
-.input .MuiInput-root {
+label {
   margin-right: 16px;
-}
-
-.stats {
-  border: 2px solid black;
-  border-radius: 5px;
-  margin: 100px;
-  margin-bottom: 20px;
-  margin-top: 0;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  padding: 10px 75px;
-}
-
-.stats-content {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 16px;
-  width: 100%;
-}
-
-.stats-content p {
-  text-align: center;
-}
-
-.pokeball-svg {
-  margin-top: 10px;
-  width: 250px;
-  height: 250px;
-  border: 2px solid black;
-  border-radius: 5px;
-  background-color: #eee;
-  padding: 5px;
 }

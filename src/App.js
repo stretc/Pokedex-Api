@@ -5,6 +5,9 @@ import Input from '@mui/material/Input';
 import Button from '@mui/material/Button';
 import pokeballSvg from './assets/Pokeball/2.svg';
 import RadarChart from './RadarChart';
+import InputComponent from './assets/InputComponents';
+
+
 
 const ariaLabel = { 'aria-label': 'description' };
 
@@ -77,52 +80,76 @@ function App() {
 
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Picodex</h1>
-      </header>
-      <nav className='main-nav grid-container'>
-        <ul className='main-nav-list'>
-          <li className='item'>Tools</li>
-          <li className='item'>Resources</li>
-          <li className='item'>Contact</li>
-          <li className='item login'>Login/Signup</li>
-        </ul>
-      </nav>
-      <main id='main' className='main-content grid-container'>
-        <h1>Search for them all!</h1>
-        <div className='input'>
-          <Box
-            sx={{
-              marginTop: '5px',
-              display: 'flex',
-              flexDirection: 'column',
-              alignItems: 'center',
-              justifyContent: 'center',
-              padding: '16px',
-            }}
-          >
-            <Input
-              placeholder='Search...'
-              type='text'
-              inputProps={ariaLabel}
-              value={searchTerm}
-              onChange={handleChange}
-            />
-            <Button
-              variant='outlined'
-              type='submit'
-              sx={{
-                marginTop: '16px',
-              }}
-              onClick={handleSubmit}
-            >
-              Submit
-            </Button>
-          </Box>
-        </div>
+      <section id='main-section'>
+        <header className="App-header">
+          <h1>Picodex</h1>
+        </header>
+        <nav className='main-nav grid-container'>
+          <ul className='main-nav-list'>
+            <li className='item'>Tools</li>
+            <li className='item'>Resources</li>
+            <li className='item'>Contact</li>
+            <li className='item login'>Login/Signup</li>
+          </ul>
+        </nav>
+        <main id='main' className='main-content grid-container'>
+          <h1>Search for them all!</h1>
+
+          <div className='grid-row'>
+            <div className='grid-col'>
+              <div className='filters'>
+
+                <Box
+                  sx={{
+                    padding: '16px',
+                  }}
+                >
+                  <label for='filter-name'>Name:</label>
+                  <Input
+                    className='input-box'
+                    id='filter-name'
+                    placeholder='Search...'
+                    type='text'
+                    inputProps={ariaLabel}
+                    value={searchTerm}
+                    onChange={handleChange}
+                  />
+                  <Button
+                    variant='outlined'
+                    type='submit'
+                    sx={{
+                      marginTop: '16px',
+                      marginLeft: '16px',
+                    }}
+                    onClick={handleSubmit}
+                  >
+                    Submit
+                  </Button>
+                </Box>
+
+              </div>
+              <div className='list'>
+
+              </div>
+            </div>
+          </div>
+        </main>
+      </section>
+    </div>
+  );
+}
+
+export default App;
+
+/* <div className='input'>
+            
+          </div>
+
+        </main>
+
         <div className='stats'>
-          <img src={image} alt='Pokeball' className='pokeball-svg' />
           <div className='stats-content'>
+            <img src={image} alt='Pokeball' className='pokeball-svg' />
             <p className='number'>Number: {number}</p>
             <p className='name'>Name: {name}</p>
             <p className='type'>Type: {type}</p>
@@ -132,13 +159,7 @@ function App() {
             <p className='sp-defense'>Sp. Defense: {spDefense}</p>
             <p className='speed'>Speed: {speed}</p>
           </div>
-          <div className='chart'>
-            {pokemonData && <RadarChart data={pokemonData} />}
-          </div>
         </div>
-      </main>
-    </div>
-  );
-}
-
-export default App;
+        <div className='chart'>
+          {pokemonData && <RadarChart data={pokemonData} />}
+        </div> */
