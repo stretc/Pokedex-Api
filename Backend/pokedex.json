@@ -39,19 +39,6 @@
     "speed": "80"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/venusaur-mega.png",
-    "number": "0003",
-    "name": "Venusaur",
-    "type": "Grass, Poison",
-    "total": "625",
-    "hp": "80",
-    "attack": "100",
-    "defense": "123",
-    "spAttack": "122",
-    "spDefense": "120",
-    "speed": "80"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/charmander.png",
     "number": "0004",
     "name": "Charmander",
@@ -91,32 +78,6 @@
     "speed": "100"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/charizard-mega-x.png",
-    "number": "0006",
-    "name": "Charizard",
-    "type": "Fire, Dragon",
-    "total": "634",
-    "hp": "78",
-    "attack": "130",
-    "defense": "111",
-    "spAttack": "130",
-    "spDefense": "85",
-    "speed": "100"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/charizard-mega-y.png",
-    "number": "0006",
-    "name": "Charizard",
-    "type": "Fire, Flying",
-    "total": "634",
-    "hp": "78",
-    "attack": "104",
-    "defense": "78",
-    "spAttack": "159",
-    "spDefense": "115",
-    "speed": "100"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/squirtle.png",
     "number": "0007",
     "name": "Squirtle",
@@ -153,19 +114,6 @@
     "defense": "100",
     "spAttack": "85",
     "spDefense": "105",
-    "speed": "78"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/blastoise-mega.png",
-    "number": "0009",
-    "name": "Blastoise",
-    "type": "Water",
-    "total": "630",
-    "hp": "79",
-    "attack": "103",
-    "defense": "120",
-    "spAttack": "135",
-    "spDefense": "115",
     "speed": "78"
   },
   {
@@ -247,19 +195,6 @@
     "speed": "75"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/beedrill-mega.png",
-    "number": "0015",
-    "name": "Beedrill",
-    "type": "Bug, Poison",
-    "total": "495",
-    "hp": "65",
-    "attack": "150",
-    "defense": "40",
-    "spAttack": "15",
-    "spDefense": "80",
-    "speed": "145"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/pidgey.png",
     "number": "0016",
     "name": "Pidgey",
@@ -299,36 +234,10 @@
     "speed": "101"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/pidgeot-mega.png",
-    "number": "0018",
-    "name": "Pidgeot",
-    "type": "Normal, Flying",
-    "total": "579",
-    "hp": "83",
-    "attack": "80",
-    "defense": "80",
-    "spAttack": "135",
-    "spDefense": "80",
-    "speed": "121"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/rattata.png",
     "number": "0019",
     "name": "Rattata",
     "type": "Normal",
-    "total": "253",
-    "hp": "30",
-    "attack": "56",
-    "defense": "35",
-    "spAttack": "25",
-    "spDefense": "35",
-    "speed": "72"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/rattata-alolan.png",
-    "number": "0019",
-    "name": "Rattata",
-    "type": "Dark, Normal",
     "total": "253",
     "hp": "30",
     "attack": "56",
@@ -349,19 +258,6 @@
     "spAttack": "50",
     "spDefense": "70",
     "speed": "97"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/raticate-alolan.png",
-    "number": "0020",
-    "name": "Raticate",
-    "type": "Dark, Normal",
-    "total": "413",
-    "hp": "75",
-    "attack": "71",
-    "defense": "70",
-    "spAttack": "40",
-    "spDefense": "80",
-    "speed": "77"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/spearow.png",
@@ -429,19 +325,6 @@
     "speed": "90"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/pikachu-lets-go.png",
-    "number": "0025",
-    "name": "Pikachu",
-    "type": "Electric",
-    "total": "430",
-    "hp": "45",
-    "attack": "80",
-    "defense": "50",
-    "spAttack": "75",
-    "spDefense": "60",
-    "speed": "120"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/raichu.png",
     "number": "0026",
     "name": "Raichu",
@@ -452,19 +335,6 @@
     "defense": "55",
     "spAttack": "90",
     "spDefense": "80",
-    "speed": "110"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/raichu-alolan.png",
-    "number": "0026",
-    "name": "Raichu",
-    "type": "Electric, Psychic",
-    "total": "485",
-    "hp": "60",
-    "attack": "85",
-    "defense": "50",
-    "spAttack": "95",
-    "spDefense": "85",
     "speed": "110"
   },
   {
@@ -481,19 +351,6 @@
     "speed": "40"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/sandshrew-alolan.png",
-    "number": "0027",
-    "name": "Sandshrew",
-    "type": "Ice, Steel",
-    "total": "300",
-    "hp": "50",
-    "attack": "75",
-    "defense": "90",
-    "spAttack": "10",
-    "spDefense": "35",
-    "speed": "40"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/sandslash.png",
     "number": "0028",
     "name": "Sandslash",
@@ -504,19 +361,6 @@
     "defense": "110",
     "spAttack": "45",
     "spDefense": "55",
-    "speed": "65"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/sandslash-alolan.png",
-    "number": "0028",
-    "name": "Sandslash",
-    "type": "Ice, Steel",
-    "total": "450",
-    "hp": "75",
-    "attack": "100",
-    "defense": "120",
-    "spAttack": "25",
-    "spDefense": "65",
     "speed": "65"
   },
   {
@@ -637,19 +481,6 @@
     "speed": "65"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/vulpix-alolan.png",
-    "number": "0037",
-    "name": "Vulpix",
-    "type": "Ice",
-    "total": "299",
-    "hp": "38",
-    "attack": "41",
-    "defense": "40",
-    "spAttack": "50",
-    "spDefense": "65",
-    "speed": "65"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/ninetales.png",
     "number": "0038",
     "name": "Ninetales",
@@ -661,19 +492,6 @@
     "spAttack": "81",
     "spDefense": "100",
     "speed": "100"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/ninetales-alolan.png",
-    "number": "0038",
-    "name": "Ninetales",
-    "type": "Ice, Fairy",
-    "total": "505",
-    "hp": "73",
-    "attack": "67",
-    "defense": "75",
-    "spAttack": "81",
-    "spDefense": "100",
-    "speed": "109"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/jigglypuff.png",
@@ -832,19 +650,6 @@
     "speed": "95"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/diglett-alolan.png",
-    "number": "0050",
-    "name": "Diglett",
-    "type": "Ground, Steel",
-    "total": "265",
-    "hp": "10",
-    "attack": "55",
-    "defense": "30",
-    "spAttack": "35",
-    "spDefense": "45",
-    "speed": "90"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/dugtrio.png",
     "number": "0051",
     "name": "Dugtrio",
@@ -856,19 +661,6 @@
     "spAttack": "50",
     "spDefense": "70",
     "speed": "120"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/dugtrio-alolan.png",
-    "number": "0051",
-    "name": "Dugtrio",
-    "type": "Ground, Steel",
-    "total": "425",
-    "hp": "35",
-    "attack": "100",
-    "defense": "60",
-    "spAttack": "50",
-    "spDefense": "70",
-    "speed": "110"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/meowth.png",
@@ -884,32 +676,6 @@
     "speed": "90"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/meowth-alolan.png",
-    "number": "0052",
-    "name": "Meowth",
-    "type": "Dark",
-    "total": "290",
-    "hp": "40",
-    "attack": "35",
-    "defense": "35",
-    "spAttack": "50",
-    "spDefense": "40",
-    "speed": "90"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/meowth-galarian.png",
-    "number": "0052",
-    "name": "Meowth",
-    "type": "Steel",
-    "total": "290",
-    "hp": "50",
-    "attack": "65",
-    "defense": "55",
-    "spAttack": "40",
-    "spDefense": "40",
-    "speed": "40"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/persian.png",
     "number": "0053",
     "name": "Persian",
@@ -919,19 +685,6 @@
     "attack": "70",
     "defense": "60",
     "spAttack": "65",
-    "spDefense": "65",
-    "speed": "115"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/persian-alolan.png",
-    "number": "0053",
-    "name": "Persian",
-    "type": "Dark",
-    "total": "440",
-    "hp": "65",
-    "attack": "60",
-    "defense": "60",
-    "spAttack": "75",
     "spDefense": "65",
     "speed": "115"
   },
@@ -1001,19 +754,6 @@
     "speed": "60"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/growlithe-hisuian.png",
-    "number": "0058",
-    "name": "Growlithe",
-    "type": "Fire, Rock",
-    "total": "350",
-    "hp": "60",
-    "attack": "75",
-    "defense": "45",
-    "spAttack": "65",
-    "spDefense": "50",
-    "speed": "55"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/arcanine.png",
     "number": "0059",
     "name": "Arcanine",
@@ -1025,19 +765,6 @@
     "spAttack": "100",
     "spDefense": "80",
     "speed": "95"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/arcanine-hisuian.png",
-    "number": "0059",
-    "name": "Arcanine",
-    "type": "Fire, Rock",
-    "total": "555",
-    "hp": "95",
-    "attack": "115",
-    "defense": "80",
-    "spAttack": "95",
-    "spDefense": "80",
-    "speed": "90"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/poliwag.png",
@@ -1116,19 +843,6 @@
     "spAttack": "135",
     "spDefense": "95",
     "speed": "120"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/alakazam-mega.png",
-    "number": "0065",
-    "name": "Alakazam",
-    "type": "Psychic",
-    "total": "600",
-    "hp": "55",
-    "attack": "50",
-    "defense": "65",
-    "spAttack": "175",
-    "spDefense": "105",
-    "speed": "150"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/machop.png",
@@ -1248,36 +962,10 @@
     "speed": "20"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/geodude-alolan.png",
-    "number": "0074",
-    "name": "Geodude",
-    "type": "Rock, Electric",
-    "total": "300",
-    "hp": "40",
-    "attack": "80",
-    "defense": "100",
-    "spAttack": "30",
-    "spDefense": "30",
-    "speed": "20"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/graveler.png",
     "number": "0075",
     "name": "Graveler",
     "type": "Rock, Ground",
-    "total": "390",
-    "hp": "55",
-    "attack": "95",
-    "defense": "115",
-    "spAttack": "45",
-    "spDefense": "45",
-    "speed": "35"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/graveler-alolan.png",
-    "number": "0075",
-    "name": "Graveler",
-    "type": "Rock, Electric",
     "total": "390",
     "hp": "55",
     "attack": "95",
@@ -1300,36 +988,10 @@
     "speed": "45"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/golem-alolan.png",
-    "number": "0076",
-    "name": "Golem",
-    "type": "Rock, Electric",
-    "total": "495",
-    "hp": "80",
-    "attack": "120",
-    "defense": "130",
-    "spAttack": "55",
-    "spDefense": "65",
-    "speed": "45"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/ponyta.png",
     "number": "0077",
     "name": "Ponyta",
     "type": "Fire",
-    "total": "410",
-    "hp": "50",
-    "attack": "85",
-    "defense": "55",
-    "spAttack": "65",
-    "spDefense": "65",
-    "speed": "90"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/ponyta-galarian.png",
-    "number": "0077",
-    "name": "Ponyta",
-    "type": "Psychic",
     "total": "410",
     "hp": "50",
     "attack": "85",
@@ -1352,36 +1014,10 @@
     "speed": "105"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/rapidash-galarian.png",
-    "number": "0078",
-    "name": "Rapidash",
-    "type": "Psychic, Fairy",
-    "total": "500",
-    "hp": "65",
-    "attack": "100",
-    "defense": "70",
-    "spAttack": "80",
-    "spDefense": "80",
-    "speed": "105"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/slowpoke.png",
     "number": "0079",
     "name": "Slowpoke",
     "type": "Water, Psychic",
-    "total": "315",
-    "hp": "90",
-    "attack": "65",
-    "defense": "65",
-    "spAttack": "40",
-    "spDefense": "40",
-    "speed": "15"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/slowpoke-galarian.png",
-    "number": "0079",
-    "name": "Slowpoke",
-    "type": "Psychic",
     "total": "315",
     "hp": "90",
     "attack": "65",
@@ -1401,32 +1037,6 @@
     "defense": "110",
     "spAttack": "100",
     "spDefense": "80",
-    "speed": "30"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/slowbro-mega.png",
-    "number": "0080",
-    "name": "Slowbro",
-    "type": "Water, Psychic",
-    "total": "590",
-    "hp": "95",
-    "attack": "75",
-    "defense": "180",
-    "spAttack": "130",
-    "spDefense": "80",
-    "speed": "30"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/slowbro-galarian.png",
-    "number": "0080",
-    "name": "Slowbro",
-    "type": "Poison, Psychic",
-    "total": "490",
-    "hp": "95",
-    "attack": "100",
-    "defense": "95",
-    "spAttack": "100",
-    "spDefense": "70",
     "speed": "30"
   },
   {
@@ -1467,19 +1077,6 @@
     "spAttack": "58",
     "spDefense": "62",
     "speed": "60"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/farfetchd-galarian.png",
-    "number": "0083",
-    "name": "Farfetch'd",
-    "type": "Fighting",
-    "total": "377",
-    "hp": "52",
-    "attack": "95",
-    "defense": "55",
-    "spAttack": "58",
-    "spDefense": "62",
-    "speed": "55"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/doduo.png",
@@ -1547,36 +1144,10 @@
     "speed": "25"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/grimer-alolan.png",
-    "number": "0088",
-    "name": "Grimer",
-    "type": "Poison, Dark",
-    "total": "325",
-    "hp": "80",
-    "attack": "80",
-    "defense": "50",
-    "spAttack": "40",
-    "spDefense": "50",
-    "speed": "25"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/muk.png",
     "number": "0089",
     "name": "Muk",
     "type": "Poison",
-    "total": "500",
-    "hp": "105",
-    "attack": "105",
-    "defense": "75",
-    "spAttack": "65",
-    "spDefense": "100",
-    "speed": "50"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/muk-alolan.png",
-    "number": "0089",
-    "name": "Muk",
-    "type": "Poison, Dark",
     "total": "500",
     "hp": "105",
     "attack": "105",
@@ -1649,19 +1220,6 @@
     "spAttack": "130",
     "spDefense": "75",
     "speed": "110"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/gengar-mega.png",
-    "number": "0094",
-    "name": "Gengar",
-    "type": "Ghost, Poison",
-    "total": "600",
-    "hp": "60",
-    "attack": "65",
-    "defense": "80",
-    "spAttack": "170",
-    "spDefense": "95",
-    "speed": "130"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/onix.png",
@@ -1742,36 +1300,10 @@
     "speed": "100"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/voltorb-hisuian.png",
-    "number": "0100",
-    "name": "Voltorb",
-    "type": "Electric, Grass",
-    "total": "330",
-    "hp": "40",
-    "attack": "30",
-    "defense": "50",
-    "spAttack": "55",
-    "spDefense": "55",
-    "speed": "100"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/electrode.png",
     "number": "0101",
     "name": "Electrode",
     "type": "Electric",
-    "total": "490",
-    "hp": "60",
-    "attack": "50",
-    "defense": "70",
-    "spAttack": "80",
-    "spDefense": "80",
-    "speed": "150"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/electrode-hisuian.png",
-    "number": "0101",
-    "name": "Electrode",
-    "type": "Electric, Grass",
     "total": "490",
     "hp": "60",
     "attack": "50",
@@ -1807,19 +1339,6 @@
     "speed": "55"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/exeggutor-alolan.png",
-    "number": "0103",
-    "name": "Exeggutor",
-    "type": "Grass, Dragon",
-    "total": "530",
-    "hp": "95",
-    "attack": "105",
-    "defense": "85",
-    "spAttack": "125",
-    "spDefense": "75",
-    "speed": "45"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/cubone.png",
     "number": "0104",
     "name": "Cubone",
@@ -1837,19 +1356,6 @@
     "number": "0105",
     "name": "Marowak",
     "type": "Ground",
-    "total": "425",
-    "hp": "60",
-    "attack": "80",
-    "defense": "110",
-    "spAttack": "50",
-    "spDefense": "80",
-    "speed": "45"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/marowak-alolan.png",
-    "number": "0105",
-    "name": "Marowak",
-    "type": "Fire, Ghost",
     "total": "425",
     "hp": "60",
     "attack": "80",
@@ -1924,19 +1430,6 @@
     "speed": "60"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/weezing-galarian.png",
-    "number": "0110",
-    "name": "Weezing",
-    "type": "Poison, Fairy",
-    "total": "490",
-    "hp": "65",
-    "attack": "90",
-    "defense": "120",
-    "spAttack": "85",
-    "spDefense": "70",
-    "speed": "60"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/rhyhorn.png",
     "number": "0111",
     "name": "Rhyhorn",
@@ -2000,19 +1493,6 @@
     "spAttack": "40",
     "spDefense": "80",
     "speed": "90"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/kangaskhan-mega.png",
-    "number": "0115",
-    "name": "Kangaskhan",
-    "type": "Normal",
-    "total": "590",
-    "hp": "105",
-    "attack": "125",
-    "defense": "100",
-    "spAttack": "60",
-    "spDefense": "100",
-    "speed": "100"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/horsea.png",
@@ -2106,19 +1586,6 @@
     "speed": "90"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/mr-mime-galarian.png",
-    "number": "0122",
-    "name": "Mr. Mime",
-    "type": "Ice, Psychic",
-    "total": "460",
-    "hp": "50",
-    "attack": "65",
-    "defense": "65",
-    "spAttack": "90",
-    "spDefense": "90",
-    "speed": "100"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/scyther.png",
     "number": "0123",
     "name": "Scyther",
@@ -2184,19 +1651,6 @@
     "speed": "85"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/pinsir-mega.png",
-    "number": "0127",
-    "name": "Pinsir",
-    "type": "Bug, Flying",
-    "total": "600",
-    "hp": "65",
-    "attack": "155",
-    "defense": "120",
-    "spAttack": "65",
-    "spDefense": "90",
-    "speed": "105"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tauros.png",
     "number": "0128",
     "name": "Tauros",
@@ -2208,45 +1662,6 @@
     "spAttack": "40",
     "spDefense": "70",
     "speed": "110"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tauros-paldean-combat.png",
-    "number": "0128",
-    "name": "Tauros",
-    "type": "Fighting",
-    "total": "490",
-    "hp": "75",
-    "attack": "110",
-    "defense": "105",
-    "spAttack": "30",
-    "spDefense": "70",
-    "speed": "100"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tauros-paldean-blaze.png",
-    "number": "0128",
-    "name": "Tauros",
-    "type": "Fighting, Fire",
-    "total": "490",
-    "hp": "75",
-    "attack": "110",
-    "defense": "105",
-    "spAttack": "30",
-    "spDefense": "70",
-    "speed": "100"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tauros-paldean-aqua.png",
-    "number": "0128",
-    "name": "Tauros",
-    "type": "Fighting, Water",
-    "total": "490",
-    "hp": "75",
-    "attack": "110",
-    "defense": "105",
-    "spAttack": "30",
-    "spDefense": "70",
-    "speed": "100"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/magikarp.png",
@@ -2272,19 +1687,6 @@
     "defense": "79",
     "spAttack": "60",
     "spDefense": "100",
-    "speed": "81"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/gyarados-mega.png",
-    "number": "0130",
-    "name": "Gyarados",
-    "type": "Water, Dark",
-    "total": "640",
-    "hp": "95",
-    "attack": "155",
-    "defense": "109",
-    "spAttack": "70",
-    "spDefense": "130",
     "speed": "81"
   },
   {
@@ -2325,19 +1727,6 @@
     "spAttack": "45",
     "spDefense": "65",
     "speed": "55"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/eevee-lets-go.png",
-    "number": "0133",
-    "name": "Eevee",
-    "type": "Normal",
-    "total": "435",
-    "hp": "65",
-    "attack": "75",
-    "defense": "70",
-    "spAttack": "65",
-    "spDefense": "85",
-    "speed": "75"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/vaporeon.png",
@@ -2457,19 +1846,6 @@
     "speed": "130"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/aerodactyl-mega.png",
-    "number": "0142",
-    "name": "Aerodactyl",
-    "type": "Rock, Flying",
-    "total": "615",
-    "hp": "80",
-    "attack": "135",
-    "defense": "85",
-    "spAttack": "70",
-    "spDefense": "95",
-    "speed": "150"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/snorlax.png",
     "number": "0143",
     "name": "Snorlax",
@@ -2496,19 +1872,6 @@
     "speed": "85"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/articuno-galarian.png",
-    "number": "0144",
-    "name": "Articuno",
-    "type": "Psychic, Flying",
-    "total": "580",
-    "hp": "90",
-    "attack": "85",
-    "defense": "85",
-    "spAttack": "125",
-    "spDefense": "100",
-    "speed": "95"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/zapdos.png",
     "number": "0145",
     "name": "Zapdos",
@@ -2518,19 +1881,6 @@
     "attack": "90",
     "defense": "85",
     "spAttack": "125",
-    "spDefense": "90",
-    "speed": "100"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/zapdos-galarian.png",
-    "number": "0145",
-    "name": "Zapdos",
-    "type": "Fighting, Flying",
-    "total": "580",
-    "hp": "90",
-    "attack": "125",
-    "defense": "90",
-    "spAttack": "85",
     "spDefense": "90",
     "speed": "100"
   },
@@ -2545,19 +1895,6 @@
     "defense": "90",
     "spAttack": "125",
     "spDefense": "85",
-    "speed": "90"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/moltres-galarian.png",
-    "number": "0146",
-    "name": "Moltres",
-    "type": "Dark, Flying",
-    "total": "580",
-    "hp": "90",
-    "attack": "85",
-    "defense": "90",
-    "spAttack": "100",
-    "spDefense": "125",
     "speed": "90"
   },
   {
@@ -2611,32 +1948,6 @@
     "spAttack": "154",
     "spDefense": "90",
     "speed": "130"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/mewtwo-mega-x.png",
-    "number": "0150",
-    "name": "Mewtwo",
-    "type": "Psychic, Fighting",
-    "total": "780",
-    "hp": "106",
-    "attack": "190",
-    "defense": "100",
-    "spAttack": "154",
-    "spDefense": "100",
-    "speed": "130"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/mewtwo-mega-y.png",
-    "number": "0150",
-    "name": "Mewtwo",
-    "type": "Psychic",
-    "total": "780",
-    "hp": "106",
-    "attack": "150",
-    "defense": "70",
-    "spAttack": "194",
-    "spDefense": "120",
-    "speed": "140"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/mew.png",
@@ -2728,19 +2039,6 @@
     "spAttack": "109",
     "spDefense": "85",
     "speed": "100"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/typhlosion-hisuian.png",
-    "number": "0157",
-    "name": "Typhlosion",
-    "type": "Fire, Ghost",
-    "total": "534",
-    "hp": "73",
-    "attack": "84",
-    "defense": "78",
-    "spAttack": "119",
-    "spDefense": "85",
-    "speed": "95"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/totodile.png",
@@ -3055,19 +2353,6 @@
     "speed": "55"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/ampharos-mega.png",
-    "number": "0181",
-    "name": "Ampharos",
-    "type": "Electric, Dragon",
-    "total": "610",
-    "hp": "90",
-    "attack": "95",
-    "defense": "105",
-    "spAttack": "165",
-    "spDefense": "110",
-    "speed": "45"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/bellossom.png",
     "number": "0182",
     "name": "Bellossom",
@@ -3237,19 +2522,6 @@
     "speed": "15"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/wooper-paldean.png",
-    "number": "0194",
-    "name": "Wooper",
-    "type": "Poison, Ground",
-    "total": "210",
-    "hp": "55",
-    "attack": "45",
-    "defense": "45",
-    "spAttack": "25",
-    "spDefense": "25",
-    "speed": "15"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/quagsire.png",
     "number": "0195",
     "name": "Quagsire",
@@ -3311,19 +2583,6 @@
     "attack": "75",
     "defense": "80",
     "spAttack": "100",
-    "spDefense": "110",
-    "speed": "30"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/slowking-galarian.png",
-    "number": "0199",
-    "name": "Slowking",
-    "type": "Poison, Psychic",
-    "total": "490",
-    "hp": "95",
-    "attack": "65",
-    "defense": "80",
-    "spAttack": "110",
     "spDefense": "110",
     "speed": "30"
   },
@@ -3445,19 +2704,6 @@
     "speed": "30"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/steelix-mega.png",
-    "number": "0208",
-    "name": "Steelix",
-    "type": "Steel, Ground",
-    "total": "610",
-    "hp": "75",
-    "attack": "125",
-    "defense": "230",
-    "spAttack": "55",
-    "spDefense": "95",
-    "speed": "30"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/snubbull.png",
     "number": "0209",
     "name": "Snubbull",
@@ -3497,19 +2743,6 @@
     "speed": "85"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/qwilfish-hisuian.png",
-    "number": "0211",
-    "name": "Qwilfish",
-    "type": "Dark, Poison",
-    "total": "440",
-    "hp": "65",
-    "attack": "95",
-    "defense": "85",
-    "spAttack": "55",
-    "spDefense": "55",
-    "speed": "85"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/scizor.png",
     "number": "0212",
     "name": "Scizor",
@@ -3521,19 +2754,6 @@
     "spAttack": "55",
     "spDefense": "80",
     "speed": "65"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/scizor-mega.png",
-    "number": "0212",
-    "name": "Scizor",
-    "type": "Bug, Steel",
-    "total": "600",
-    "hp": "70",
-    "attack": "150",
-    "defense": "140",
-    "spAttack": "65",
-    "spDefense": "100",
-    "speed": "75"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/shuckle.png",
@@ -3562,36 +2782,10 @@
     "speed": "85"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/heracross-mega.png",
-    "number": "0214",
-    "name": "Heracross",
-    "type": "Bug, Fighting",
-    "total": "600",
-    "hp": "80",
-    "attack": "185",
-    "defense": "115",
-    "spAttack": "40",
-    "spDefense": "105",
-    "speed": "75"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/sneasel.png",
     "number": "0215",
     "name": "Sneasel",
     "type": "Dark, Ice",
-    "total": "430",
-    "hp": "55",
-    "attack": "95",
-    "defense": "55",
-    "spAttack": "35",
-    "spDefense": "75",
-    "speed": "115"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/sneasel-hisuian.png",
-    "number": "0215",
-    "name": "Sneasel",
-    "type": "Fighting, Poison",
     "total": "430",
     "hp": "55",
     "attack": "95",
@@ -3692,19 +2886,6 @@
     "speed": "35"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/corsola-galarian.png",
-    "number": "0222",
-    "name": "Corsola",
-    "type": "Ghost",
-    "total": "410",
-    "hp": "60",
-    "attack": "55",
-    "defense": "100",
-    "spAttack": "65",
-    "spDefense": "100",
-    "speed": "30"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/remoraid.png",
     "number": "0223",
     "name": "Remoraid",
@@ -3794,19 +2975,6 @@
     "spAttack": "110",
     "spDefense": "80",
     "speed": "95"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/houndoom-mega.png",
-    "number": "0229",
-    "name": "Houndoom",
-    "type": "Dark, Fire",
-    "total": "600",
-    "hp": "75",
-    "attack": "90",
-    "defense": "90",
-    "spAttack": "140",
-    "spDefense": "90",
-    "speed": "115"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/kingdra.png",
@@ -4056,19 +3224,6 @@
     "speed": "61"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tyranitar-mega.png",
-    "number": "0248",
-    "name": "Tyranitar",
-    "type": "Rock, Dark",
-    "total": "700",
-    "hp": "100",
-    "attack": "164",
-    "defense": "150",
-    "spAttack": "95",
-    "spDefense": "120",
-    "speed": "71"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/lugia.png",
     "number": "0249",
     "name": "Lugia",
@@ -4147,19 +3302,6 @@
     "speed": "120"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/sceptile-mega.png",
-    "number": "0254",
-    "name": "Sceptile",
-    "type": "Grass, Dragon",
-    "total": "630",
-    "hp": "70",
-    "attack": "110",
-    "defense": "75",
-    "spAttack": "145",
-    "spDefense": "85",
-    "speed": "145"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/torchic.png",
     "number": "0255",
     "name": "Torchic",
@@ -4197,19 +3339,6 @@
     "spAttack": "110",
     "spDefense": "70",
     "speed": "80"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/blaziken-mega.png",
-    "number": "0257",
-    "name": "Blaziken",
-    "type": "Fire, Fighting",
-    "total": "630",
-    "hp": "80",
-    "attack": "160",
-    "defense": "80",
-    "spAttack": "130",
-    "spDefense": "80",
-    "speed": "100"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/mudkip.png",
@@ -4251,19 +3380,6 @@
     "speed": "60"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/swampert-mega.png",
-    "number": "0260",
-    "name": "Swampert",
-    "type": "Water, Ground",
-    "total": "635",
-    "hp": "100",
-    "attack": "150",
-    "defense": "110",
-    "spAttack": "95",
-    "spDefense": "110",
-    "speed": "70"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/poochyena.png",
     "number": "0261",
     "name": "Poochyena",
@@ -4303,36 +3419,10 @@
     "speed": "60"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/zigzagoon-galarian.png",
-    "number": "0263",
-    "name": "Zigzagoon",
-    "type": "Dark, Normal",
-    "total": "240",
-    "hp": "38",
-    "attack": "30",
-    "defense": "41",
-    "spAttack": "30",
-    "spDefense": "41",
-    "speed": "60"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/linoone.png",
     "number": "0264",
     "name": "Linoone",
     "type": "Normal",
-    "total": "420",
-    "hp": "78",
-    "attack": "70",
-    "defense": "61",
-    "spAttack": "50",
-    "spDefense": "61",
-    "speed": "100"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/linoone-galarian.png",
-    "number": "0264",
-    "name": "Linoone",
-    "type": "Dark, Normal",
     "total": "420",
     "hp": "78",
     "attack": "70",
@@ -4574,19 +3664,6 @@
     "spAttack": "125",
     "spDefense": "115",
     "speed": "80"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/gardevoir-mega.png",
-    "number": "0282",
-    "name": "Gardevoir",
-    "type": "Psychic, Fairy",
-    "total": "618",
-    "hp": "68",
-    "attack": "85",
-    "defense": "65",
-    "spAttack": "165",
-    "spDefense": "135",
-    "speed": "100"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/surskit.png",
@@ -4849,19 +3926,6 @@
     "speed": "50"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/sableye-mega.png",
-    "number": "0302",
-    "name": "Sableye",
-    "type": "Dark, Ghost",
-    "total": "480",
-    "hp": "50",
-    "attack": "85",
-    "defense": "125",
-    "spAttack": "85",
-    "spDefense": "115",
-    "speed": "20"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/mawile.png",
     "number": "0303",
     "name": "Mawile",
@@ -4872,19 +3936,6 @@
     "defense": "85",
     "spAttack": "55",
     "spDefense": "55",
-    "speed": "50"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/mawile-mega.png",
-    "number": "0303",
-    "name": "Mawile",
-    "type": "Steel, Fairy",
-    "total": "480",
-    "hp": "50",
-    "attack": "105",
-    "defense": "125",
-    "spAttack": "55",
-    "spDefense": "95",
     "speed": "50"
   },
   {
@@ -4927,19 +3978,6 @@
     "speed": "50"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/aggron-mega.png",
-    "number": "0306",
-    "name": "Aggron",
-    "type": "Steel",
-    "total": "630",
-    "hp": "70",
-    "attack": "140",
-    "defense": "230",
-    "spAttack": "60",
-    "spDefense": "80",
-    "speed": "50"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/meditite.png",
     "number": "0307",
     "name": "Meditite",
@@ -4966,19 +4004,6 @@
     "speed": "80"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/medicham-mega.png",
-    "number": "0308",
-    "name": "Medicham",
-    "type": "Fighting, Psychic",
-    "total": "510",
-    "hp": "60",
-    "attack": "100",
-    "defense": "85",
-    "spAttack": "80",
-    "spDefense": "85",
-    "speed": "100"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/electrike.png",
     "number": "0309",
     "name": "Electrike",
@@ -5003,19 +4028,6 @@
     "spAttack": "105",
     "spDefense": "60",
     "speed": "105"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/manectric-mega.png",
-    "number": "0310",
-    "name": "Manectric",
-    "type": "Electric",
-    "total": "575",
-    "hp": "70",
-    "attack": "75",
-    "defense": "80",
-    "spAttack": "135",
-    "spDefense": "80",
-    "speed": "135"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/plusle.png",
@@ -5135,19 +4147,6 @@
     "speed": "95"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/sharpedo-mega.png",
-    "number": "0319",
-    "name": "Sharpedo",
-    "type": "Water, Dark",
-    "total": "560",
-    "hp": "70",
-    "attack": "140",
-    "defense": "70",
-    "spAttack": "110",
-    "spDefense": "65",
-    "speed": "105"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/wailmer.png",
     "number": "0320",
     "name": "Wailmer",
@@ -5198,19 +4197,6 @@
     "spAttack": "105",
     "spDefense": "75",
     "speed": "40"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/camerupt-mega.png",
-    "number": "0323",
-    "name": "Camerupt",
-    "type": "Fire, Ground",
-    "total": "560",
-    "hp": "70",
-    "attack": "120",
-    "defense": "100",
-    "spAttack": "145",
-    "spDefense": "105",
-    "speed": "20"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/torkoal.png",
@@ -5352,19 +4338,6 @@
     "attack": "70",
     "defense": "90",
     "spAttack": "70",
-    "spDefense": "105",
-    "speed": "80"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/altaria-mega.png",
-    "number": "0334",
-    "name": "Altaria",
-    "type": "Dragon, Fairy",
-    "total": "590",
-    "hp": "75",
-    "attack": "110",
-    "defense": "110",
-    "spAttack": "110",
     "spDefense": "105",
     "speed": "80"
   },
@@ -5590,45 +4563,6 @@
     "speed": "70"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/castform-sunny.png",
-    "number": "0351",
-    "name": "Castform",
-    "type": "Fire",
-    "total": "420",
-    "hp": "70",
-    "attack": "70",
-    "defense": "70",
-    "spAttack": "70",
-    "spDefense": "70",
-    "speed": "70"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/castform-rainy.png",
-    "number": "0351",
-    "name": "Castform",
-    "type": "Water",
-    "total": "420",
-    "hp": "70",
-    "attack": "70",
-    "defense": "70",
-    "spAttack": "70",
-    "spDefense": "70",
-    "speed": "70"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/castform-snowy.png",
-    "number": "0351",
-    "name": "Castform",
-    "type": "Ice",
-    "total": "420",
-    "hp": "70",
-    "attack": "70",
-    "defense": "70",
-    "spAttack": "70",
-    "spDefense": "70",
-    "speed": "70"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/kecleon.png",
     "number": "0352",
     "name": "Kecleon",
@@ -5666,19 +4600,6 @@
     "spAttack": "83",
     "spDefense": "63",
     "speed": "65"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/banette-mega.png",
-    "number": "0354",
-    "name": "Banette",
-    "type": "Ghost",
-    "total": "555",
-    "hp": "64",
-    "attack": "165",
-    "defense": "75",
-    "spAttack": "93",
-    "spDefense": "83",
-    "speed": "75"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/duskull.png",
@@ -5746,19 +4667,6 @@
     "speed": "75"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/absol-mega.png",
-    "number": "0359",
-    "name": "Absol",
-    "type": "Dark",
-    "total": "565",
-    "hp": "65",
-    "attack": "150",
-    "defense": "60",
-    "spAttack": "115",
-    "spDefense": "60",
-    "speed": "115"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/wynaut.png",
     "number": "0360",
     "name": "Wynaut",
@@ -5796,19 +4704,6 @@
     "spAttack": "80",
     "spDefense": "80",
     "speed": "80"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/glalie-mega.png",
-    "number": "0362",
-    "name": "Glalie",
-    "type": "Ice",
-    "total": "580",
-    "hp": "80",
-    "attack": "120",
-    "defense": "80",
-    "spAttack": "120",
-    "spDefense": "80",
-    "speed": "100"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/spheal.png",
@@ -5954,19 +4849,6 @@
     "speed": "100"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/salamence-mega.png",
-    "number": "0373",
-    "name": "Salamence",
-    "type": "Dragon, Flying",
-    "total": "700",
-    "hp": "95",
-    "attack": "145",
-    "defense": "130",
-    "spAttack": "120",
-    "spDefense": "90",
-    "speed": "120"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/beldum.png",
     "number": "0374",
     "name": "Beldum",
@@ -6004,19 +4886,6 @@
     "spAttack": "95",
     "spDefense": "90",
     "speed": "70"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/metagross-mega.png",
-    "number": "0376",
-    "name": "Metagross",
-    "type": "Steel, Psychic",
-    "total": "700",
-    "hp": "80",
-    "attack": "145",
-    "defense": "150",
-    "spAttack": "105",
-    "spDefense": "110",
-    "speed": "110"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/regirock.png",
@@ -6071,19 +4940,6 @@
     "speed": "110"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/latias-mega.png",
-    "number": "0380",
-    "name": "Latias",
-    "type": "Dragon, Psychic",
-    "total": "700",
-    "hp": "80",
-    "attack": "100",
-    "defense": "120",
-    "spAttack": "140",
-    "spDefense": "150",
-    "speed": "110"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/latios.png",
     "number": "0381",
     "name": "Latios",
@@ -6094,19 +4950,6 @@
     "defense": "80",
     "spAttack": "130",
     "spDefense": "110",
-    "speed": "110"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/latios-mega.png",
-    "number": "0381",
-    "name": "Latios",
-    "type": "Dragon, Psychic",
-    "total": "700",
-    "hp": "80",
-    "attack": "130",
-    "defense": "100",
-    "spAttack": "160",
-    "spDefense": "120",
     "speed": "110"
   },
   {
@@ -6123,19 +4966,6 @@
     "speed": "90"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/kyogre-primal.png",
-    "number": "0382",
-    "name": "Kyogre",
-    "type": "Water",
-    "total": "770",
-    "hp": "100",
-    "attack": "150",
-    "defense": "90",
-    "spAttack": "180",
-    "spDefense": "160",
-    "speed": "90"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/groudon.png",
     "number": "0383",
     "name": "Groudon",
@@ -6145,19 +4975,6 @@
     "attack": "150",
     "defense": "140",
     "spAttack": "100",
-    "spDefense": "90",
-    "speed": "90"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/groudon-primal.png",
-    "number": "0383",
-    "name": "Groudon",
-    "type": "Ground, Fire",
-    "total": "770",
-    "hp": "100",
-    "attack": "180",
-    "defense": "160",
-    "spAttack": "150",
     "spDefense": "90",
     "speed": "90"
   },
@@ -6173,19 +4990,6 @@
     "spAttack": "150",
     "spDefense": "90",
     "speed": "95"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/rayquaza-mega.png",
-    "number": "0384",
-    "name": "Rayquaza",
-    "type": "Dragon, Flying",
-    "total": "780",
-    "hp": "105",
-    "attack": "180",
-    "defense": "100",
-    "spAttack": "180",
-    "spDefense": "100",
-    "speed": "115"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/jirachi.png",
@@ -6212,45 +5016,6 @@
     "spAttack": "150",
     "spDefense": "50",
     "speed": "150"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/deoxys-attack.png",
-    "number": "0386",
-    "name": "Deoxys",
-    "type": "Psychic",
-    "total": "600",
-    "hp": "50",
-    "attack": "180",
-    "defense": "20",
-    "spAttack": "180",
-    "spDefense": "20",
-    "speed": "150"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/deoxys-defense.png",
-    "number": "0386",
-    "name": "Deoxys",
-    "type": "Psychic",
-    "total": "600",
-    "hp": "50",
-    "attack": "70",
-    "defense": "160",
-    "spAttack": "70",
-    "spDefense": "160",
-    "speed": "90"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/deoxys-speed.png",
-    "number": "0386",
-    "name": "Deoxys",
-    "type": "Psychic",
-    "total": "600",
-    "hp": "50",
-    "attack": "95",
-    "defense": "90",
-    "spAttack": "95",
-    "spDefense": "90",
-    "speed": "180"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/turtwig.png",
@@ -6591,32 +5356,6 @@
     "speed": "36"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/burmy-sandy.png",
-    "number": "0412",
-    "name": "Burmy",
-    "type": "Bug",
-    "total": "224",
-    "hp": "40",
-    "attack": "29",
-    "defense": "45",
-    "spAttack": "29",
-    "spDefense": "45",
-    "speed": "36"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/burmy-trash.png",
-    "number": "0412",
-    "name": "Burmy",
-    "type": "Bug",
-    "total": "224",
-    "hp": "40",
-    "attack": "29",
-    "defense": "45",
-    "spAttack": "29",
-    "spDefense": "45",
-    "speed": "36"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/wormadam-plant.png",
     "number": "0413",
     "name": "Wormadam",
@@ -6627,32 +5366,6 @@
     "defense": "85",
     "spAttack": "79",
     "spDefense": "105",
-    "speed": "36"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/wormadam-sandy.png",
-    "number": "0413",
-    "name": "Wormadam",
-    "type": "Bug, Ground",
-    "total": "424",
-    "hp": "60",
-    "attack": "79",
-    "defense": "105",
-    "spAttack": "59",
-    "spDefense": "85",
-    "speed": "36"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/wormadam-trash.png",
-    "number": "0413",
-    "name": "Wormadam",
-    "type": "Bug, Steel",
-    "total": "424",
-    "hp": "60",
-    "attack": "69",
-    "defense": "95",
-    "spAttack": "69",
-    "spDefense": "95",
     "speed": "36"
   },
   {
@@ -6849,19 +5562,6 @@
     "spAttack": "54",
     "spDefense": "96",
     "speed": "105"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/lopunny-mega.png",
-    "number": "0428",
-    "name": "Lopunny",
-    "type": "Normal, Fighting",
-    "total": "580",
-    "hp": "65",
-    "attack": "136",
-    "defense": "94",
-    "spAttack": "54",
-    "spDefense": "96",
-    "speed": "135"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/mismagius.png",
@@ -7085,19 +5785,6 @@
     "speed": "102"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/garchomp-mega.png",
-    "number": "0445",
-    "name": "Garchomp",
-    "type": "Dragon, Ground",
-    "total": "700",
-    "hp": "108",
-    "attack": "170",
-    "defense": "115",
-    "spAttack": "120",
-    "spDefense": "95",
-    "speed": "92"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/munchlax.png",
     "number": "0446",
     "name": "Munchlax",
@@ -7135,19 +5822,6 @@
     "spAttack": "115",
     "spDefense": "70",
     "speed": "90"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/lucario-mega.png",
-    "number": "0448",
-    "name": "Lucario",
-    "type": "Fighting, Steel",
-    "total": "625",
-    "hp": "70",
-    "attack": "145",
-    "defense": "88",
-    "spAttack": "140",
-    "spDefense": "70",
-    "speed": "112"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/hippopotas.png",
@@ -7304,19 +5978,6 @@
     "spAttack": "92",
     "spDefense": "85",
     "speed": "60"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/abomasnow-mega.png",
-    "number": "0460",
-    "name": "Abomasnow",
-    "type": "Grass, Ice",
-    "total": "594",
-    "hp": "90",
-    "attack": "132",
-    "defense": "105",
-    "spAttack": "132",
-    "spDefense": "105",
-    "speed": "30"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/weavile.png",
@@ -7514,19 +6175,6 @@
     "speed": "80"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/gallade-mega.png",
-    "number": "0475",
-    "name": "Gallade",
-    "type": "Psychic, Fighting",
-    "total": "618",
-    "hp": "68",
-    "attack": "165",
-    "defense": "95",
-    "spAttack": "65",
-    "spDefense": "115",
-    "speed": "110"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/probopass.png",
     "number": "0476",
     "name": "Probopass",
@@ -7577,71 +6225,6 @@
     "spAttack": "95",
     "spDefense": "77",
     "speed": "91"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/rotom-heat.png",
-    "number": "0479",
-    "name": "Rotom",
-    "type": "Electric, Fire",
-    "total": "520",
-    "hp": "50",
-    "attack": "65",
-    "defense": "107",
-    "spAttack": "105",
-    "spDefense": "107",
-    "speed": "86"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/rotom-wash.png",
-    "number": "0479",
-    "name": "Rotom",
-    "type": "Electric, Water",
-    "total": "520",
-    "hp": "50",
-    "attack": "65",
-    "defense": "107",
-    "spAttack": "105",
-    "spDefense": "107",
-    "speed": "86"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/rotom-frost.png",
-    "number": "0479",
-    "name": "Rotom",
-    "type": "Electric, Ice",
-    "total": "520",
-    "hp": "50",
-    "attack": "65",
-    "defense": "107",
-    "spAttack": "105",
-    "spDefense": "107",
-    "speed": "86"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/rotom-fan.png",
-    "number": "0479",
-    "name": "Rotom",
-    "type": "Electric, Flying",
-    "total": "520",
-    "hp": "50",
-    "attack": "65",
-    "defense": "107",
-    "spAttack": "105",
-    "spDefense": "107",
-    "speed": "86"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/rotom-mow.png",
-    "number": "0479",
-    "name": "Rotom",
-    "type": "Electric, Grass",
-    "total": "520",
-    "hp": "50",
-    "attack": "65",
-    "defense": "107",
-    "spAttack": "105",
-    "spDefense": "107",
-    "speed": "86"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/uxie.png",
@@ -7696,19 +6279,6 @@
     "speed": "90"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/dialga-origin.png",
-    "number": "0483",
-    "name": "Dialga",
-    "type": "Steel, Dragon",
-    "total": "680",
-    "hp": "100",
-    "attack": "100",
-    "defense": "120",
-    "spAttack": "150",
-    "spDefense": "120",
-    "speed": "90"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/palkia.png",
     "number": "0484",
     "name": "Palkia",
@@ -7720,19 +6290,6 @@
     "spAttack": "150",
     "spDefense": "120",
     "speed": "100"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/palkia-origin.png",
-    "number": "0484",
-    "name": "Palkia",
-    "type": "Water, Dragon",
-    "total": "680",
-    "hp": "90",
-    "attack": "100",
-    "defense": "100",
-    "spAttack": "150",
-    "spDefense": "120",
-    "speed": "120"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/heatran.png",
@@ -7771,19 +6328,6 @@
     "defense": "120",
     "spAttack": "100",
     "spDefense": "120",
-    "speed": "90"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/giratina-origin.png",
-    "number": "0487",
-    "name": "Giratina",
-    "type": "Ghost, Dragon",
-    "total": "680",
-    "hp": "150",
-    "attack": "120",
-    "defense": "100",
-    "spAttack": "120",
-    "spDefense": "100",
     "speed": "90"
   },
   {
@@ -7850,19 +6394,6 @@
     "spAttack": "100",
     "spDefense": "100",
     "speed": "100"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/shaymin-sky.png",
-    "number": "0492",
-    "name": "Shaymin",
-    "type": "Grass, Flying",
-    "total": "600",
-    "hp": "100",
-    "attack": "103",
-    "defense": "75",
-    "spAttack": "120",
-    "spDefense": "75",
-    "speed": "127"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/arceus.png",
@@ -8006,19 +6537,6 @@
     "spAttack": "108",
     "spDefense": "70",
     "speed": "70"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/samurott-hisuian.png",
-    "number": "0503",
-    "name": "Samurott",
-    "type": "Water, Dark",
-    "total": "528",
-    "hp": "90",
-    "attack": "108",
-    "defense": "80",
-    "spAttack": "100",
-    "spDefense": "65",
-    "speed": "85"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/patrat.png",
@@ -8385,19 +6903,6 @@
     "speed": "50"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/audino-mega.png",
-    "number": "0531",
-    "name": "Audino",
-    "type": "Normal, Fairy",
-    "total": "545",
-    "hp": "103",
-    "attack": "60",
-    "defense": "126",
-    "spAttack": "80",
-    "spDefense": "126",
-    "speed": "50"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/timburr.png",
     "number": "0532",
     "name": "Timburr",
@@ -8632,46 +7137,7 @@
     "speed": "90"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/lilligant-hisuian.png",
-    "number": "0549",
-    "name": "Lilligant",
-    "type": "Grass, Fighting",
-    "total": "480",
-    "hp": "70",
-    "attack": "105",
-    "defense": "75",
-    "spAttack": "50",
-    "spDefense": "75",
-    "speed": "105"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/basculin-red-striped.png",
-    "number": "0550",
-    "name": "Basculin",
-    "type": "Water",
-    "total": "460",
-    "hp": "70",
-    "attack": "92",
-    "defense": "65",
-    "spAttack": "80",
-    "spDefense": "55",
-    "speed": "98"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/basculin-blue-striped.png",
-    "number": "0550",
-    "name": "Basculin",
-    "type": "Water",
-    "total": "460",
-    "hp": "70",
-    "attack": "92",
-    "defense": "65",
-    "spAttack": "80",
-    "spDefense": "55",
-    "speed": "98"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/basculin-white-striped.png",
     "number": "0550",
     "name": "Basculin",
     "type": "Water",
@@ -8736,19 +7202,6 @@
     "speed": "50"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/darumaka-galarian.png",
-    "number": "0554",
-    "name": "Darumaka",
-    "type": "Ice",
-    "total": "315",
-    "hp": "70",
-    "attack": "90",
-    "defense": "45",
-    "spAttack": "15",
-    "spDefense": "45",
-    "speed": "50"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/darmanitan-standard.png",
     "number": "0555",
     "name": "Darmanitan",
@@ -8760,45 +7213,6 @@
     "spAttack": "30",
     "spDefense": "55",
     "speed": "95"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/darmanitan-zen.png",
-    "number": "0555",
-    "name": "Darmanitan",
-    "type": "Fire, Psychic",
-    "total": "540",
-    "hp": "105",
-    "attack": "30",
-    "defense": "105",
-    "spAttack": "140",
-    "spDefense": "105",
-    "speed": "55"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/darmanitan-galarian-standard.png",
-    "number": "0555",
-    "name": "Darmanitan",
-    "type": "Ice",
-    "total": "480",
-    "hp": "105",
-    "attack": "140",
-    "defense": "55",
-    "spAttack": "30",
-    "spDefense": "55",
-    "speed": "95"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/darmanitan-galarian-zen.png",
-    "number": "0555",
-    "name": "Darmanitan",
-    "type": "Ice, Fire",
-    "total": "540",
-    "hp": "105",
-    "attack": "160",
-    "defense": "55",
-    "spAttack": "30",
-    "spDefense": "55",
-    "speed": "135"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/maractus.png",
@@ -8888,19 +7302,6 @@
     "attack": "30",
     "defense": "85",
     "spAttack": "55",
-    "spDefense": "65",
-    "speed": "30"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/yamask-galarian.png",
-    "number": "0562",
-    "name": "Yamask",
-    "type": "Ground, Ghost",
-    "total": "303",
-    "hp": "38",
-    "attack": "55",
-    "defense": "85",
-    "spAttack": "30",
     "spDefense": "65",
     "speed": "30"
   },
@@ -9009,19 +7410,6 @@
     "speed": "65"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/zorua-hisuian.png",
-    "number": "0570",
-    "name": "Zorua",
-    "type": "Normal, Ghost",
-    "total": "330",
-    "hp": "35",
-    "attack": "60",
-    "defense": "40",
-    "spAttack": "85",
-    "spDefense": "40",
-    "speed": "70"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/zoroark.png",
     "number": "0571",
     "name": "Zoroark",
@@ -9033,19 +7421,6 @@
     "spAttack": "120",
     "spDefense": "60",
     "speed": "105"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/zoroark-hisuian.png",
-    "number": "0571",
-    "name": "Zoroark",
-    "type": "Normal, Ghost",
-    "total": "510",
-    "hp": "55",
-    "attack": "100",
-    "defense": "60",
-    "spAttack": "125",
-    "spDefense": "60",
-    "speed": "110"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/minccino.png",
@@ -9659,19 +8034,6 @@
     "speed": "32"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/stunfisk-galarian.png",
-    "number": "0618",
-    "name": "Stunfisk",
-    "type": "Ground, Steel",
-    "total": "471",
-    "hp": "109",
-    "attack": "81",
-    "defense": "99",
-    "spAttack": "66",
-    "spDefense": "84",
-    "speed": "32"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/mienfoo.png",
     "number": "0619",
     "name": "Mienfoo",
@@ -9800,19 +8162,6 @@
     "spAttack": "57",
     "spDefense": "75",
     "speed": "80"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/braviary-hisuian.png",
-    "number": "0628",
-    "name": "Braviary",
-    "type": "Psychic, Flying",
-    "total": "510",
-    "hp": "110",
-    "attack": "83",
-    "defense": "70",
-    "spAttack": "112",
-    "spDefense": "70",
-    "speed": "65"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/vullaby.png",
@@ -9984,19 +8333,6 @@
     "speed": "111"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tornadus-therian.png",
-    "number": "0641",
-    "name": "Tornadus",
-    "type": "Flying",
-    "total": "580",
-    "hp": "79",
-    "attack": "100",
-    "defense": "80",
-    "spAttack": "110",
-    "spDefense": "90",
-    "speed": "121"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/thundurus-incarnate.png",
     "number": "0642",
     "name": "Thundurus",
@@ -10008,19 +8344,6 @@
     "spAttack": "125",
     "spDefense": "80",
     "speed": "111"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/thundurus-therian.png",
-    "number": "0642",
-    "name": "Thundurus",
-    "type": "Electric, Flying",
-    "total": "580",
-    "hp": "79",
-    "attack": "105",
-    "defense": "70",
-    "spAttack": "145",
-    "spDefense": "80",
-    "speed": "101"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/reshiram.png",
@@ -10062,19 +8385,6 @@
     "speed": "101"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/landorus-therian.png",
-    "number": "0645",
-    "name": "Landorus",
-    "type": "Ground, Flying",
-    "total": "600",
-    "hp": "89",
-    "attack": "145",
-    "defense": "90",
-    "spAttack": "105",
-    "spDefense": "80",
-    "speed": "91"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/kyurem.png",
     "number": "0646",
     "name": "Kyurem",
@@ -10088,46 +8398,7 @@
     "speed": "95"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/kyurem-white.png",
-    "number": "0646",
-    "name": "Kyurem",
-    "type": "Dragon, Ice",
-    "total": "700",
-    "hp": "125",
-    "attack": "120",
-    "defense": "90",
-    "spAttack": "170",
-    "spDefense": "100",
-    "speed": "95"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/kyurem-black.png",
-    "number": "0646",
-    "name": "Kyurem",
-    "type": "Dragon, Ice",
-    "total": "700",
-    "hp": "125",
-    "attack": "170",
-    "defense": "100",
-    "spAttack": "120",
-    "spDefense": "90",
-    "speed": "95"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/keldeo-ordinary.png",
-    "number": "0647",
-    "name": "Keldeo",
-    "type": "Water, Fighting",
-    "total": "580",
-    "hp": "91",
-    "attack": "72",
-    "defense": "90",
-    "spAttack": "129",
-    "spDefense": "90",
-    "speed": "108"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/keldeo-resolute.png",
     "number": "0647",
     "name": "Keldeo",
     "type": "Water, Fighting",
@@ -10151,19 +8422,6 @@
     "spAttack": "128",
     "spDefense": "128",
     "speed": "90"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/meloetta-pirouette.png",
-    "number": "0648",
-    "name": "Meloetta",
-    "type": "Normal, Fighting",
-    "total": "600",
-    "hp": "100",
-    "attack": "128",
-    "defense": "90",
-    "spAttack": "77",
-    "spDefense": "77",
-    "speed": "128"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/genesect.png",
@@ -10294,19 +8552,6 @@
     "spAttack": "103",
     "spDefense": "71",
     "speed": "122"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/greninja-ash.png",
-    "number": "0658",
-    "name": "Greninja",
-    "type": "Water, Dark",
-    "total": "640",
-    "hp": "72",
-    "attack": "145",
-    "defense": "67",
-    "spAttack": "153",
-    "spDefense": "71",
-    "speed": "132"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/bunnelby.png",
@@ -10569,19 +8814,6 @@
     "speed": "104"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/meowstic-female.png",
-    "number": "0678",
-    "name": "Meowstic",
-    "type": "Psychic",
-    "total": "466",
-    "hp": "74",
-    "attack": "48",
-    "defense": "76",
-    "spAttack": "83",
-    "spDefense": "81",
-    "speed": "104"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/honedge.png",
     "number": "0679",
     "name": "Honedge",
@@ -10618,19 +8850,6 @@
     "defense": "140",
     "spAttack": "50",
     "spDefense": "140",
-    "speed": "60"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/aegislash-blade.png",
-    "number": "0681",
-    "name": "Aegislash",
-    "type": "Steel, Ghost",
-    "total": "500",
-    "hp": "60",
-    "attack": "140",
-    "defense": "50",
-    "spAttack": "140",
-    "spDefense": "50",
     "speed": "60"
   },
   {
@@ -10946,19 +9165,6 @@
     "speed": "60"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/sliggoo-hisuian.png",
-    "number": "0705",
-    "name": "Sliggoo",
-    "type": "Steel, Dragon",
-    "total": "452",
-    "hp": "58",
-    "attack": "75",
-    "defense": "83",
-    "spAttack": "83",
-    "spDefense": "113",
-    "speed": "40"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/goodra.png",
     "number": "0706",
     "name": "Goodra",
@@ -10970,19 +9176,6 @@
     "spAttack": "110",
     "spDefense": "150",
     "speed": "80"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/goodra-hisuian.png",
-    "number": "0706",
-    "name": "Goodra",
-    "type": "Steel, Dragon",
-    "total": "600",
-    "hp": "80",
-    "attack": "100",
-    "defense": "100",
-    "spAttack": "110",
-    "spDefense": "150",
-    "speed": "60"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/klefki.png",
@@ -11037,45 +9230,6 @@
     "speed": "51"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/pumpkaboo-small.png",
-    "number": "0710",
-    "name": "Pumpkaboo",
-    "type": "Ghost, Grass",
-    "total": "335",
-    "hp": "44",
-    "attack": "66",
-    "defense": "70",
-    "spAttack": "44",
-    "spDefense": "55",
-    "speed": "56"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/pumpkaboo-large.png",
-    "number": "0710",
-    "name": "Pumpkaboo",
-    "type": "Ghost, Grass",
-    "total": "335",
-    "hp": "54",
-    "attack": "66",
-    "defense": "70",
-    "spAttack": "44",
-    "spDefense": "55",
-    "speed": "46"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/pumpkaboo-super.png",
-    "number": "0710",
-    "name": "Pumpkaboo",
-    "type": "Ghost, Grass",
-    "total": "335",
-    "hp": "59",
-    "attack": "66",
-    "defense": "70",
-    "spAttack": "44",
-    "spDefense": "55",
-    "speed": "41"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/gourgeist-average.png",
     "number": "0711",
     "name": "Gourgeist",
@@ -11087,45 +9241,6 @@
     "spAttack": "58",
     "spDefense": "75",
     "speed": "84"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/gourgeist-small.png",
-    "number": "0711",
-    "name": "Gourgeist",
-    "type": "Ghost, Grass",
-    "total": "494",
-    "hp": "55",
-    "attack": "85",
-    "defense": "122",
-    "spAttack": "58",
-    "spDefense": "75",
-    "speed": "99"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/gourgeist-large.png",
-    "number": "0711",
-    "name": "Gourgeist",
-    "type": "Ghost, Grass",
-    "total": "494",
-    "hp": "75",
-    "attack": "95",
-    "defense": "122",
-    "spAttack": "58",
-    "spDefense": "75",
-    "speed": "69"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/gourgeist-super.png",
-    "number": "0711",
-    "name": "Gourgeist",
-    "type": "Ghost, Grass",
-    "total": "494",
-    "hp": "85",
-    "attack": "100",
-    "defense": "122",
-    "spAttack": "58",
-    "spDefense": "75",
-    "speed": "54"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/bergmite.png",
@@ -11152,19 +9267,6 @@
     "spAttack": "44",
     "spDefense": "46",
     "speed": "28"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avalugg-hisuian.png",
-    "number": "0713",
-    "name": "Avalugg",
-    "type": "Ice, Rock",
-    "total": "514",
-    "hp": "95",
-    "attack": "127",
-    "defense": "184",
-    "spAttack": "34",
-    "spDefense": "36",
-    "speed": "38"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/noibat.png",
@@ -11232,32 +9334,6 @@
     "speed": "95"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/zygarde-10.png",
-    "number": "0718",
-    "name": "Zygarde",
-    "type": "Dragon, Ground",
-    "total": "486",
-    "hp": "54",
-    "attack": "100",
-    "defense": "71",
-    "spAttack": "61",
-    "spDefense": "85",
-    "speed": "115"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/zygarde-complete.png",
-    "number": "0718",
-    "name": "Zygarde",
-    "type": "Dragon, Ground",
-    "total": "708",
-    "hp": "216",
-    "attack": "100",
-    "defense": "121",
-    "spAttack": "91",
-    "spDefense": "95",
-    "speed": "85"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/diancie.png",
     "number": "0719",
     "name": "Diancie",
@@ -11271,19 +9347,6 @@
     "speed": "50"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/diancie-mega.png",
-    "number": "0719",
-    "name": "Diancie",
-    "type": "Rock, Fairy",
-    "total": "700",
-    "hp": "50",
-    "attack": "160",
-    "defense": "110",
-    "spAttack": "160",
-    "spDefense": "110",
-    "speed": "110"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/hoopa-confined.png",
     "number": "0720",
     "name": "Hoopa",
@@ -11295,19 +9358,6 @@
     "spAttack": "150",
     "spDefense": "130",
     "speed": "70"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/hoopa-unbound.png",
-    "number": "0720",
-    "name": "Hoopa",
-    "type": "Psychic, Dark",
-    "total": "680",
-    "hp": "80",
-    "attack": "160",
-    "defense": "60",
-    "spAttack": "170",
-    "spDefense": "130",
-    "speed": "80"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/volcanion.png",
@@ -11360,19 +9410,6 @@
     "spAttack": "100",
     "spDefense": "100",
     "speed": "70"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/decidueye-hisuian.png",
-    "number": "0724",
-    "name": "Decidueye",
-    "type": "Grass, Fighting",
-    "total": "530",
-    "hp": "88",
-    "attack": "112",
-    "defense": "80",
-    "spAttack": "95",
-    "spDefense": "95",
-    "speed": "60"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/litten.png",
@@ -11596,45 +9633,6 @@
     "speed": "93"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/oricorio-pom-pom.png",
-    "number": "0741",
-    "name": "Oricorio",
-    "type": "Electric, Flying",
-    "total": "476",
-    "hp": "75",
-    "attack": "70",
-    "defense": "70",
-    "spAttack": "98",
-    "spDefense": "70",
-    "speed": "93"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/oricorio-pau.png",
-    "number": "0741",
-    "name": "Oricorio",
-    "type": "Psychic, Flying",
-    "total": "476",
-    "hp": "75",
-    "attack": "70",
-    "defense": "70",
-    "spAttack": "98",
-    "spDefense": "70",
-    "speed": "93"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/oricorio-sensu.png",
-    "number": "0741",
-    "name": "Oricorio",
-    "type": "Ghost, Flying",
-    "total": "476",
-    "hp": "75",
-    "attack": "70",
-    "defense": "70",
-    "spAttack": "98",
-    "spDefense": "70",
-    "speed": "93"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/cutiefly.png",
     "number": "0742",
     "name": "Cutiefly",
@@ -11674,19 +9672,6 @@
     "speed": "60"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/rockruff-own-tempo.png",
-    "number": "0744",
-    "name": "Rockruff",
-    "type": "Rock",
-    "total": "280",
-    "hp": "45",
-    "attack": "65",
-    "defense": "40",
-    "spAttack": "30",
-    "spDefense": "40",
-    "speed": "60"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/lycanroc-midday.png",
     "number": "0745",
     "name": "Lycanroc",
@@ -11700,32 +9685,6 @@
     "speed": "112"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/lycanroc-midnight.png",
-    "number": "0745",
-    "name": "Lycanroc",
-    "type": "Rock",
-    "total": "487",
-    "hp": "85",
-    "attack": "115",
-    "defense": "75",
-    "spAttack": "55",
-    "spDefense": "75",
-    "speed": "82"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/lycanroc-dusk.png",
-    "number": "0745",
-    "name": "Lycanroc",
-    "type": "Rock",
-    "total": "487",
-    "hp": "75",
-    "attack": "117",
-    "defense": "65",
-    "spAttack": "55",
-    "spDefense": "65",
-    "speed": "110"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/wishiwashi-solo.png",
     "number": "0746",
     "name": "Wishiwashi",
@@ -11737,19 +9696,6 @@
     "spAttack": "25",
     "spDefense": "25",
     "speed": "40"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/wishiwashi-school.png",
-    "number": "0746",
-    "name": "Wishiwashi",
-    "type": "Water",
-    "total": "620",
-    "hp": "45",
-    "attack": "140",
-    "defense": "130",
-    "spAttack": "140",
-    "spDefense": "135",
-    "speed": "30"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/mareanie.png",
@@ -12116,19 +10062,6 @@
     "speed": "60"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/minior-core.png",
-    "number": "0774",
-    "name": "Minior",
-    "type": "Rock, Flying",
-    "total": "500",
-    "hp": "60",
-    "attack": "100",
-    "defense": "60",
-    "spAttack": "100",
-    "spDefense": "60",
-    "speed": "120"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/komala.png",
     "number": "0775",
     "name": "Komala",
@@ -12465,45 +10398,6 @@
     "spAttack": "127",
     "spDefense": "89",
     "speed": "79"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/necrozma-dusk-mane.png",
-    "number": "0800",
-    "name": "Necrozma",
-    "type": "Psychic, Steel",
-    "total": "680",
-    "hp": "97",
-    "attack": "157",
-    "defense": "127",
-    "spAttack": "113",
-    "spDefense": "109",
-    "speed": "77"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/necrozma-dawn-wings.png",
-    "number": "0800",
-    "name": "Necrozma",
-    "type": "Psychic, Ghost",
-    "total": "680",
-    "hp": "97",
-    "attack": "113",
-    "defense": "109",
-    "spAttack": "157",
-    "spDefense": "127",
-    "speed": "77"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/necrozma-ultra.png",
-    "number": "0800",
-    "name": "Necrozma",
-    "type": "Psychic, Dragon",
-    "total": "754",
-    "hp": "97",
-    "attack": "167",
-    "defense": "97",
-    "spAttack": "167",
-    "spDefense": "97",
-    "speed": "129"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/magearna.png",
@@ -13143,19 +11037,6 @@
     "speed": "75"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/toxtricity-low-key.png",
-    "number": "0849",
-    "name": "Toxtricity",
-    "type": "Electric, Poison",
-    "total": "502",
-    "hp": "75",
-    "attack": "98",
-    "defense": "70",
-    "spAttack": "114",
-    "spDefense": "70",
-    "speed": "75"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/sizzlipede.png",
     "number": "0850",
     "name": "Sizzlipede",
@@ -13494,19 +11375,6 @@
     "speed": "50"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/eiscue-noice.png",
-    "number": "0875",
-    "name": "Eiscue",
-    "type": "Ice",
-    "total": "470",
-    "hp": "75",
-    "attack": "80",
-    "defense": "70",
-    "spAttack": "65",
-    "spDefense": "50",
-    "speed": "130"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/indeedee-male.png",
     "number": "0876",
     "name": "Indeedee",
@@ -13520,33 +11388,7 @@
     "speed": "95"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/indeedee-female.png",
-    "number": "0876",
-    "name": "Indeedee",
-    "type": "Psychic, Normal",
-    "total": "475",
-    "hp": "70",
-    "attack": "55",
-    "defense": "65",
-    "spAttack": "95",
-    "spDefense": "105",
-    "speed": "85"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/morpeko-full-belly.png",
-    "number": "0877",
-    "name": "Morpeko",
-    "type": "Electric, Dark",
-    "total": "436",
-    "hp": "58",
-    "attack": "95",
-    "defense": "58",
-    "spAttack": "70",
-    "spDefense": "58",
-    "speed": "97"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/morpeko-hangry.png",
     "number": "0877",
     "name": "Morpeko",
     "type": "Electric, Dark",
@@ -13702,19 +11544,6 @@
     "speed": "138"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/zacian-crowned.png",
-    "number": "0888",
-    "name": "Zacian",
-    "type": "Fairy, Steel",
-    "total": "700",
-    "hp": "92",
-    "attack": "150",
-    "defense": "115",
-    "spAttack": "80",
-    "spDefense": "115",
-    "speed": "148"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/zamazenta-hero.png",
     "number": "0889",
     "name": "Zamazenta",
@@ -13728,19 +11557,6 @@
     "speed": "138"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/zamazenta-crowned.png",
-    "number": "0889",
-    "name": "Zamazenta",
-    "type": "Fighting, Steel",
-    "total": "700",
-    "hp": "92",
-    "attack": "120",
-    "defense": "140",
-    "spAttack": "80",
-    "spDefense": "140",
-    "speed": "128"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/eternatus.png",
     "number": "0890",
     "name": "Eternatus",
@@ -13751,19 +11567,6 @@
     "defense": "95",
     "spAttack": "145",
     "spDefense": "95",
-    "speed": "130"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/eternatus-eternamax.png",
-    "number": "0890",
-    "name": "Eternatus",
-    "type": "Poison, Dragon",
-    "total": "1125",
-    "hp": "255",
-    "attack": "115",
-    "defense": "250",
-    "spAttack": "125",
-    "spDefense": "250",
     "speed": "130"
   },
   {
@@ -13784,19 +11587,6 @@
     "number": "0892",
     "name": "Urshifu",
     "type": "Fighting, Dark",
-    "total": "550",
-    "hp": "100",
-    "attack": "130",
-    "defense": "100",
-    "spAttack": "63",
-    "spDefense": "60",
-    "speed": "97"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/urshifu-rapid-strike.png",
-    "number": "0892",
-    "name": "Urshifu",
-    "type": "Fighting, Water",
     "total": "550",
     "hp": "100",
     "attack": "130",
@@ -13884,32 +11674,6 @@
     "speed": "80"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/calyrex-ice-rider.png",
-    "number": "0898",
-    "name": "Calyrex",
-    "type": "Psychic, Ice",
-    "total": "680",
-    "hp": "100",
-    "attack": "165",
-    "defense": "150",
-    "spAttack": "85",
-    "spDefense": "130",
-    "speed": "50"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/calyrex-shadow-rider.png",
-    "number": "0898",
-    "name": "Calyrex",
-    "type": "Psychic, Ghost",
-    "total": "680",
-    "hp": "100",
-    "attack": "85",
-    "defense": "80",
-    "spAttack": "165",
-    "spDefense": "100",
-    "speed": "150"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/wyrdeer.png",
     "number": "0899",
     "name": "Wyrdeer",
@@ -13949,19 +11713,6 @@
     "speed": "50"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/ursaluna-bloodmoon.png",
-    "number": "0901",
-    "name": "Ursaluna",
-    "type": "Ground, Normal",
-    "total": "555",
-    "hp": "113",
-    "attack": "70",
-    "defense": "120",
-    "spAttack": "135",
-    "spDefense": "65",
-    "speed": "52"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/basculegion-male.png",
     "number": "0902",
     "name": "Basculegion",
@@ -13971,19 +11722,6 @@
     "attack": "112",
     "defense": "65",
     "spAttack": "80",
-    "spDefense": "75",
-    "speed": "78"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/basculegion-female.png",
-    "number": "0902",
-    "name": "Basculegion",
-    "type": "Water, Ghost",
-    "total": "530",
-    "hp": "120",
-    "attack": "92",
-    "defense": "65",
-    "spAttack": "100",
     "spDefense": "75",
     "speed": "78"
   },
@@ -14025,19 +11763,6 @@
     "spAttack": "135",
     "spDefense": "80",
     "speed": "106"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/enamorus-therian.png",
-    "number": "0905",
-    "name": "Enamorus",
-    "type": "Fairy, Flying",
-    "total": "580",
-    "hp": "74",
-    "attack": "115",
-    "defense": "110",
-    "spAttack": "135",
-    "spDefense": "100",
-    "speed": "46"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/sprigatito.png",
@@ -14183,19 +11908,6 @@
     "speed": "65"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/oinkologne-female.png",
-    "number": "0916",
-    "name": "Oinkologne",
-    "type": "Normal",
-    "total": "489",
-    "hp": "115",
-    "attack": "90",
-    "defense": "70",
-    "spAttack": "59",
-    "spDefense": "90",
-    "speed": "65"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tarountula.png",
     "number": "0917",
     "name": "Tarountula",
@@ -14313,19 +12025,6 @@
     "speed": "111"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/maushold-family3.png",
-    "number": "0925",
-    "name": "Maushold",
-    "type": "Normal",
-    "total": "470",
-    "hp": "74",
-    "attack": "75",
-    "defense": "70",
-    "spAttack": "65",
-    "spDefense": "75",
-    "speed": "111"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/fidough.png",
     "number": "0926",
     "name": "Fidough",
@@ -14392,45 +12091,6 @@
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/squawkabilly-green.png",
-    "number": "0931",
-    "name": "Squawkabilly",
-    "type": "Normal, Flying",
-    "total": "417",
-    "hp": "82",
-    "attack": "96",
-    "defense": "51",
-    "spAttack": "45",
-    "spDefense": "51",
-    "speed": "92"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/squawkabilly-blue.png",
-    "number": "0931",
-    "name": "Squawkabilly",
-    "type": "Normal, Flying",
-    "total": "417",
-    "hp": "82",
-    "attack": "96",
-    "defense": "51",
-    "spAttack": "45",
-    "spDefense": "51",
-    "speed": "92"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/squawkabilly-yellow.png",
-    "number": "0931",
-    "name": "Squawkabilly",
-    "type": "Normal, Flying",
-    "total": "417",
-    "hp": "82",
-    "attack": "96",
-    "defense": "51",
-    "spAttack": "45",
-    "spDefense": "51",
-    "speed": "92"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/squawkabilly-white.png",
     "number": "0931",
     "name": "Squawkabilly",
     "type": "Normal, Flying",
@@ -14872,19 +12532,6 @@
     "speed": "100"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/palafin-hero.png",
-    "number": "0964",
-    "name": "Palafin",
-    "type": "Water",
-    "total": "650",
-    "hp": "100",
-    "attack": "160",
-    "defense": "97",
-    "spAttack": "106",
-    "spDefense": "87",
-    "speed": "100"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/varoom.png",
     "number": "0965",
     "name": "Varoom",
@@ -15067,32 +12714,6 @@
     "speed": "82"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tatsugiri-droopy.png",
-    "number": "0978",
-    "name": "Tatsugiri",
-    "type": "Dragon, Water",
-    "total": "475",
-    "hp": "68",
-    "attack": "50",
-    "defense": "60",
-    "spAttack": "120",
-    "spDefense": "95",
-    "speed": "82"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/tatsugiri-stretchy.png",
-    "number": "0978",
-    "name": "Tatsugiri",
-    "type": "Dragon, Water",
-    "total": "475",
-    "hp": "68",
-    "attack": "50",
-    "defense": "60",
-    "spAttack": "120",
-    "spDefense": "95",
-    "speed": "82"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/annihilape.png",
     "number": "0979",
     "name": "Annihilape",
@@ -15133,19 +12754,6 @@
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/dudunsparce-two-segment.png",
-    "number": "0982",
-    "name": "Dudunsparce",
-    "type": "Normal",
-    "total": "520",
-    "hp": "125",
-    "attack": "100",
-    "defense": "80",
-    "spAttack": "85",
-    "spDefense": "75",
-    "speed": "55"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/dudunsparce-three-segment.png",
     "number": "0982",
     "name": "Dudunsparce",
     "type": "Normal",
@@ -15377,19 +12985,6 @@
     "spAttack": "75",
     "spDefense": "70",
     "speed": "10"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/gimmighoul-roaming.png",
-    "number": "0999",
-    "name": "Gimmighoul",
-    "type": "Ghost",
-    "total": "300",
-    "hp": "45",
-    "attack": "30",
-    "defense": "25",
-    "spAttack": "75",
-    "spDefense": "45",
-    "speed": "80"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/gholdengo.png",
@@ -15626,45 +13221,6 @@
     "speed": "110"
   },
   {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/ogerpon-wellspring.png",
-    "number": "1017",
-    "name": "Ogerpon",
-    "type": "Grass, Water",
-    "total": "550",
-    "hp": "80",
-    "attack": "120",
-    "defense": "84",
-    "spAttack": "60",
-    "spDefense": "96",
-    "speed": "110"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/ogerpon-hearthflame.png",
-    "number": "1017",
-    "name": "Ogerpon",
-    "type": "Grass, Fire",
-    "total": "550",
-    "hp": "80",
-    "attack": "120",
-    "defense": "84",
-    "spAttack": "60",
-    "spDefense": "96",
-    "speed": "110"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/ogerpon-cornerstone.png",
-    "number": "1017",
-    "name": "Ogerpon",
-    "type": "Grass, Rock",
-    "total": "550",
-    "hp": "80",
-    "attack": "120",
-    "defense": "84",
-    "spAttack": "60",
-    "spDefense": "96",
-    "speed": "110"
-  },
-  {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/archaludon.png",
     "number": "1018",
     "name": "Archaludon",
@@ -15754,32 +13310,6 @@
     "spAttack": "65",
     "spDefense": "85",
     "speed": "60"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/terapagos-terastal.png",
-    "number": "1024",
-    "name": "Terapagos",
-    "type": "Normal",
-    "total": "600",
-    "hp": "95",
-    "attack": "95",
-    "defense": "110",
-    "spAttack": "105",
-    "spDefense": "110",
-    "speed": "85"
-  },
-  {
-    "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/terapagos-stellar.png",
-    "number": "1024",
-    "name": "Terapagos",
-    "type": "Normal",
-    "total": "700",
-    "hp": "160",
-    "attack": "105",
-    "defense": "110",
-    "spAttack": "130",
-    "spDefense": "110",
-    "speed": "85"
   },
   {
     "pokePic": "https://img.pokemondb.net/sprites/scarlet-violet/icon/pecharunt.png",

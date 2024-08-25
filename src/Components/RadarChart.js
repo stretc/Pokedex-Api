@@ -6,7 +6,6 @@ import { Chart as ChartJS, RadialLinearScale, PointElement, LineElement, Filler,
 ChartJS.register(RadialLinearScale, PointElement, LineElement, Filler, Tooltip, Legend);
 
 const RadarChart = ({ data }) => {
-  // Provide default values if data is null or undefined
   const hp = data?.hp || 0;
   const attack = data?.attack || 0;
   const defense = data?.defense || 0;

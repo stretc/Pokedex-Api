@@ -1,7 +1,7 @@
-import puppeteer from "puppeteer";
-import fs from "fs";
+const puppeteer = require('puppeteer');
+const fs = require('fs');
 
-export const scrape = async () => {
+const scrape = async () => {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
 
@@ -10,6 +10,8 @@ export const scrape = async () => {
 
   const allPokemon = await page.evaluate(() => {
     const pokemonElements = document.querySelectorAll('tr');
+    const seenNames = new Set();
+
     return Array.from(pokemonElements).map((pokemon) => {
       const pokeNumberElement = pokemon.querySelector('.infocard-cell-data');
       const pokePicElement = pokemon.querySelector('.infocard-cell-img img');
@@ -45,7 +47,15 @@ export const scrape = async () => {
         spDefense,
         speed
       };
-    }).filter((pokemon) => pokemon.number !== null);
+    })
+      .filter((pokemon) => pokemon.number !== null)
+      .filter((pokemon) => {
+        if (pokemon.name && !seenNames.has(pokemon.name)) {
+          seenNames.add(pokemon.name);
+          return true;
+        }
+        return false;
+      });
   });
 
   fs.writeFileSync('pokedex.json', JSON.stringify(allPokemon, null, 2));
