@@ -1,5 +1,5 @@
 # Overview
-This application uses webscraping to create an API which stores the data of each pokemon in the pokedex database.
+This application uses webscraping to create an API which stores the data of each Pokémon in the Pokédex database.
 All together it was built with Express JS, Node JS, Puppeteer, with React being the framework. 
 
 # Searching:
